@@ -1,0 +1,14 @@
+Dados do aluno
+
+-Primeiro Nome: Simone dos Santos Silva.
+-Profissão: Futura analista de teste.
+-Cidade: Itapevi.
+-O que faz nas horas vaga: Leio.
+-Feedback sobre o curso Qualidade de Software: Estou achando muito proveitoso.
+-Feedback sobre a plataforma de estudo da EBAC: Razoavel.
+
+Obrigado!!!
+
+De nada!
+
+
